@@ -16,7 +16,7 @@
 
 ## 👋 Profile
 
-I am a **Cybersecurity Analyst and Software Programmer** focused on security analysis, secure software development, web application security, threat detection, monitoring, and automation.
+I am a **Cybersecurity Analyst and  Programmer** focused on security analysis, secure software development, web application security, threat detection, monitoring, and automation.
 
 My primary development stack is **Python and Django**, with a strong interest in building practical security-focused applications and intelligent systems.
 
