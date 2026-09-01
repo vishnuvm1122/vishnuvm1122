@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Vishnu
 
-### 🐍 Python & Django Developer | 💻 Software Programmer | 🛡️ Cybersecurity Analyst
+### 🐍 💻  Programmer | 🛡️ Cybersecurity Analyst
 
-I’m a **Software Programmer, Python & Django Developer, and Cybersecurity Analyst** passionate about building secure, reliable, and practical technology solutions.
+I’m a **Software Programmer, Python & Django , and Cybersecurity Analyst** passionate about building secure, reliable, and practical technology solutions.
 
 My work combines **software development and cybersecurity**, with a focus on developing web applications, analyzing security risks, implementing security controls, and creating solutions for real-world business requirements.
 
