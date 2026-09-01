@@ -297,7 +297,7 @@ I am interested in developing security systems that combine software engineering
 
 <div align="center">
 
-### 🇮🇳 Kerala-Based Technology Enthusiast
+### 🇮🇳 Technology Enthusiast
 
 **Cybersecurity · Software Engineering · Python · AI**
 
