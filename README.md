@@ -1,149 +1,206 @@
-# 🛡️ Vishnu VM — Cybersecurity Analyst & Software Developer
+# 🛡️ Vishnu VM | Cybersecurity Analyst
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b32,100:00ff9c&height=220&section=header&text=VISHNU%20VM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Python%20%7C%20Django%20%7C%20AI%20Security&descAlignY=58&descSize=18" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003b32,65:00a884,100:00ff9c&height=230&section=header&text=VISHNU%20VM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20PYTHON%20%7C%20DJANGO%20%7C%20AI%20SECURITY&descAlignY=60&descSize=17" width="100%"/>
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=🛡️+Cybersecurity+Analyst;🐍+Python+%26+Django+Developer;🔐+Security-Focused+Software+Programmer;🌐+Web+Application+Security;🚨+Threat+Detection+%26+Monitoring;🤖+AI+%2B+Cybersecurity;⚙️+Security+Automation;💻+Building+Secure+Software" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=800&color=00FF9C&center=true&vCenter=true&width=950&lines=🛡️+Cybersecurity+Analyst;🐍+Python+%26+Django+Developer;🔐+Application+Security;🚨+Threat+Detection;🔎+Security+Analysis;🤖+AI+%2B+Cybersecurity;⚙️+Security+Automation;🚀+Secure+Software+Development" />
+
 </p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/vishnuvm1122">
-<img src="https://img.shields.io/badge/GitHub-vishnuvm1122-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/🐙%20GitHub-Vishnu%20VM-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vishnuvm1997/">
-<img src="https://img.shields.io/badge/LinkedIn-Vishnu%20VM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Vishnu%20VM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:vishnuedappal1122@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="tel:+918129013326">
+<img src="https://img.shields.io/badge/📱%20Phone-%2B91%2081290%2013326-00A86B?style=for-the-badge&logo=phone&logoColor=white"/>
 </a>
 
 <a href="https://t.me/jerry_1999">
-<img src="https://img.shields.io/badge/Telegram-@jerry__1999-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/💬%20Telegram-@jerry__1999-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/vishnu_murali_____/">
-<img src="https://img.shields.io/badge/Instagram-vishnu__murali_____-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/vishnuvm1122">
-<img src="https://komarev.com/ghpvc/?username=vishnuvm1122&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge" />
-</a>
-
-<a href="https://github.com/vishnuvm1122?tab=followers">
-<img src="https://img.shields.io/github/followers/vishnuvm1122?label=FOLLOWERS&style=for-the-badge&color=00ff9c" />
-</a>
-
-<a href="https://github.com/vishnuvm1122?tab=repositories">
-<img src="https://img.shields.io/github/stars/vishnuvm1122?label=TOTAL%20STARS&style=for-the-badge&color=00ff9c" />
+<img src="https://img.shields.io/badge/📸%20Instagram-vishnu__murali_____-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 🧑‍💻 About Me
+# 👨‍💻 About Me
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/Developer.gif" width="380" />
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/Developer.gif" width="350"/>
+
 </p>
 
-### 👋 Hello, I'm Vishnu VM
+### 🛡️ Cybersecurity Analyst | 💻 Software Programmer | 🐍 Python Developer
 
-🛡️ **Cybersecurity Analyst**
-💻 **Software Programmer**
-🐍 **Python & Django Developer**
-🌐 **Web Application Security Enthusiast**
-🤖 **AI + Cybersecurity Explorer**
+I am a **Cybersecurity Analyst and Software Programmer** focused on building practical, secure, and intelligent software solutions.
 
-I am passionate about building secure and practical software solutions using **Cybersecurity, Python, Django, Web Technologies, AI, Automation, and Security Monitoring**.
+My main interests include:
+
+🔐 Application Security
+🌐 Web Security
+🔎 Security Analysis
+🚨 Threat Detection
+📊 Security Monitoring
+🐧 Linux Security
+🐍 Python Development
+🌐 Django Development
+🤖 AI Security
+⚙️ Security Automation
+
+> 🇮🇳 **Kerala Developer • 🌴 Proud Mallu Guy • 🛡️ Security Mindset**
+
+---
+
+# 🧠 My Security Mindset
 
 ```text
-🛡️ CYBERSECURITY
-        +
-💻 PROGRAMMING
-        +
-⚙️ AUTOMATION
-        +
-🤖 ARTIFICIAL INTELLIGENCE
-        ↓
-🚀 SECURE & INTELLIGENT SOFTWARE
+       💡 THINK
+          ↓
+       🔍 ANALYZE
+          ↓
+       🧪 TEST
+          ↓
+       🔐 SECURE
+          ↓
+       🚨 DETECT
+          ↓
+       📊 MONITOR
+          ↓
+       ⚙️ AUTOMATE
+          ↓
+       🚀 IMPROVE
 ```
 
-> 🇮🇳 Kerala Developer • 🌴 Proud Mallu Guy • 🛡️ Cybersecurity Mindset
+> 🛡️ **Build Secure • Test Thoroughly • Monitor Continuously**
 
 ---
 
-# 🛡️ Cybersecurity Focus
+# 🛡️ Cybersecurity Skills
 
 <table align="center">
+
 <tr>
 
-<td align="center" width="25%">
-<h2>🔐</h2>
-<b>Application Security</b>
-<br><br>
-Authentication<br>
-Authorization<br>
-Web Security
+<td align="center">
+
+🔐 <b>Authentication</b>
+
+<br>
+
+Access Control
+Session Security
+
 </td>
 
-<td align="center" width="25%">
-<h2>🔍</h2>
-<b>Security Analysis</b>
-<br><br>
-Log Analysis<br>
-Vulnerability Analysis<br>
-Activity Analysis
+<td align="center">
+
+🌐 <b>Web Security</b>
+
+<br>
+
+Application Security
+Security Testing
+
 </td>
 
-<td align="center" width="25%">
-<h2>🚨</h2>
-<b>Threat Detection</b>
-<br><br>
-Threat Monitoring<br>
-Suspicious Login<br>
+<td align="center">
+
+🔎 <b>Security Analysis</b>
+
+<br>
+
+Log Analysis
+Vulnerability Analysis
+
+</td>
+
+<td align="center">
+
+🚨 <b>Threat Detection</b>
+
+<br>
+
+Suspicious Activity
 Security Alerts
-</td>
 
-<td align="center" width="25%">
-<h2>🤖</h2>
-<b>AI Security</b>
-<br><br>
-AI Detection<br>
-ML Security<br>
-Automation
 </td>
 
 </tr>
+
+<tr>
+
+<td align="center">
+
+🐧 <b>Linux Security</b>
+
+<br>
+
+System Monitoring
+Security Tools
+
+</td>
+
+<td align="center">
+
+🌐 <b>Network Security</b>
+
+<br>
+
+Traffic Analysis
+Network Monitoring
+
+</td>
+
+<td align="center">
+
+📊 <b>Security Monitoring</b>
+
+<br>
+
+Logs
+Events
+Alerts
+
+</td>
+
+<td align="center">
+
+🤖 <b>AI Security</b>
+
+<br>
+
+ML Detection
+AI Automation
+
+</td>
+
+</tr>
+
 </table>
-
----
-
-# 🎯 Security Skills
-
-```text
-🔐 Authentication & Authorization
-🌐 Web Application Security
-🔍 Vulnerability Analysis
-🚨 Suspicious Activity Detection
-📊 Security Monitoring
-📝 Security Logging
-🌐 Network Analysis
-🐧 Linux Security
-🧪 Security Testing
-📧 Security Notifications
-⚙️ Security Automation
-🤖 AI + Cybersecurity
-```
 
 ---
 
@@ -152,109 +209,111 @@ Automation
 ## 🐍 Programming
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,bash" />
+
+<img src="https://skillicons.dev/icons?i=python,javascript,bash"/>
+
 </p>
 
 ## 🌐 Web Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=django,html,css,bootstrap" />
+
+<img src="https://skillicons.dev/icons?i=django,html,css,bootstrap"/>
+
 </p>
 
 ## 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
+
 </p>
 
-## 🐧 Systems & DevOps
+## ☁️ DevOps & Systems
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,nginx,apache" />
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx,apache"/>
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛡️ Security Monitoring & Suspicious Login Detection
+## 🛡️ Security Monitoring System
 
-Security-focused Django application for monitoring authentication activity and identifying potentially suspicious login behavior.
+A Django-based security monitoring application designed to track authentication activity and identify suspicious login behavior.
 
 ### 🔥 Features
 
-* 🔐 Login / Logout Monitoring
-* 🚨 Suspicious Login Detection
-* 🌐 IP Address Tracking
-* 💻 Device Detection
-* 📱 Session Monitoring
-* 🔎 User-Agent Analysis
-* 📊 Security Activity Logs
-* 📧 Security Email Notifications
-* 🛡️ Authentication Monitoring
-* 🔔 Security Alerts
-
-**Stack:** `Python` `Django` `MySQL` `JavaScript` `Bootstrap` `Linux`
-
----
-
-## 📚 Employee Learning Management System
-
-A complete employee training and learning management platform with authentication and security monitoring.
-
-### 📖 Features
-
-* 👨‍💼 Employee Management
-* 📚 Course Management
-* 🎯 Course Allocation
-* 📊 Learning Progress
-* 🔔 Notifications
-* 📧 Email Communication
-* 🛠️ Administration
-* 🔐 Authentication
-* 🔑 Password Reset
-
-### 🛡️ Security
-
-* 🔐 Authentication
-* 🛡️ Access Control
-* 🚨 Suspicious Login Detection
-* 💻 Login / Logout Tracking
-* 📱 Device Monitoring
-* 📧 Security Notifications
-* 📊 Security Logging
+🔐 Login Monitoring
+🚪 Logout Monitoring
+🚨 Suspicious Login Detection
+🌐 IP Address Tracking
+💻 Device Detection
+📱 Session Tracking
+🔎 User-Agent Analysis
+📊 Security Logs
+📧 Email Security Alerts
 
 <p align="center">
 
-<a href="https://github.com/vishnuvm1122/Employee-Learning-Management-System">
-<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-Employee%20LMS-00ff9c?style=for-the-badge" />
+<a href="https://github.com/vishnuvm1122">
+<img src="https://img.shields.io/badge/🛡️%20VIEW%20SECURITY%20PROJECT-00ff9c?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-## 🔗 URL Shortener & Link Analytics
+# 📚 Employee Learning Management System
 
-Django-based URL shortening and visitor analytics platform.
+A complete employee learning platform developed using Python and Django.
+
+### 📖 Main Features
+
+👨‍💼 Employee Management
+📚 Course Management
+🎯 Course Allocation
+📊 Learning Progress
+🔔 Notifications
+📧 Email Communication
+🔐 Authentication
+🔑 Password Reset
+🛡️ Security Monitoring
+
+<p align="center">
+
+<a href="https://github.com/vishnuvm1122/Employee-Learning-Management-System">
+<img src="https://img.shields.io/badge/🚀%20OPEN%20PROJECT-Employee%20LMS-0A66C2?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 🔗 URL Shortener & Analytics
+
+Django-based URL shortening platform with visitor analytics.
 
 ### 📊 Features
 
-* 🔗 Short URL Generation
-* ✨ Custom URLs
-* 📈 Click Analytics
-* 🌐 IP Tracking
-* 🖥️ Browser Detection
-* 💻 OS Detection
-* 📱 Device Detection
-* ⏳ Link Expiration
-* 📊 Analytics Dashboard
-* 🔐 Authentication
+🔗 Short URLs
+✨ Custom URLs
+📈 Click Analytics
+🌐 IP Tracking
+🖥️ Browser Detection
+💻 Operating System Detection
+📱 Device Detection
+⏳ Link Expiration
+📊 Analytics Dashboard
 
 <p align="center">
 
 <a href="https://github.com/vishnuvm1122/url-shortner">
-<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-URL%20Shortener-00ff9c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀%20OPEN%20PROJECT-URL%20SHORTENER-8A2BE2?style=for-the-badge"/>
 </a>
 
 </p>
@@ -264,96 +323,104 @@ Django-based URL shortening and visitor analytics platform.
 # 🤖 AI + Cybersecurity
 
 ```text
-🤖 AI Phishing Detection
-        ↓
-🔗 Malicious URL Analysis
-        ↓
-📧 Email Threat Detection
-        ↓
-🔍 Intelligent Threat Analysis
-        ↓
-🚨 Automated Security Alerts
-        ↓
-📊 Security Intelligence Dashboard
+                 🤖 AI
+                  │
+          ┌───────┴───────┐
+          ↓               ↓
+     🔗 URL Analysis   📧 Email Analysis
+          │               │
+          ↓               ↓
+      🔍 Detection     🚨 Detection
+          │               │
+          └───────┬───────┘
+                  ↓
+          🛡️ SECURITY ENGINE
+                  ↓
+             📊 ANALYTICS
+                  ↓
+             🔔 ALERTS
 ```
 
-### 🧠 Future Security Projects
+### 🔮 Future Projects
 
-* 🤖 AI Phishing Detection
-* 🔗 Malicious URL Detection
-* 📧 Email Threat Detection
-* 🧠 Machine Learning Security
-* 🚨 Intelligent Threat Detection
-* 📊 Security Event Analysis
-* ⚙️ Security Automation
-* 🔍 Anomaly Detection
-* 🛡️ AI-Assisted Security Analysis
+🤖 AI Phishing Detection
+🔗 Malicious URL Detection
+📧 Email Threat Detection
+🧠 Machine Learning Security
+🚨 Intelligent Threat Detection
+📊 Security Analytics
+⚙️ Security Automation
+🔍 Anomaly Detection
 
 ---
 
 # 📊 GitHub Analytics
 
+### 🐙 GitHub Overview
+
 <p align="center">
 
 <a href="https://github.com/vishnuvm1122">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishnuvm1122&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://img.shields.io/badge/🐙%20GITHUB-Vishnu%20VM-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
 <a href="https://github.com/vishnuvm1122?tab=repositories">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvm1122&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+<img src="https://img.shields.io/badge/📦%20REPOSITORIES-VIEW-0969DA?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/vishnuvm1122?tab=followers">
+
+<img src="https://img.shields.io/badge/👥%20FOLLOWERS-VIEW-238636?style=for-the-badge"/>
 
 </a>
 
 </p>
 
-> 💡 If these cards occasionally fail to load, it can be caused by the public GitHub API/Vercel instance rate limits.
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<a href="https://github.com/vishnuvm1122">
-
-<img src="https://streak-stats.demolab.com/?user=vishnuvm1122&theme=tokyonight&hide_border=true&border_radius=10" width="80%" alt="GitHub Streak" />
-
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img src="https://img.shields.io/badge/🔥%20STREAK-View%20GitHub%20Activity-00ff9c?style=for-the-badge" />
-</a>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<a href="https://github.com/vishnuvm1122">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnuvm1122&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true&radius=8" width="100%" alt="GitHub Contribution Graph" />
-
-</a>
-
-</p>
+### 📌 GitHub Activity
 
 <p align="center">
 
 <a href="https://github.com/vishnuvm1122?tab=overview">
-<img src="https://img.shields.io/badge/📊%20VIEW-CONTRIBUTIONS-00ff9c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📈%20ACTIVITY-VIEW%20PROFILE-00ff9c?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/vishnuvm1122?tab=stars">
+<img src="https://img.shields.io/badge/⭐%20STARRED-VIEW-FFD700?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/vishnuvm1122?tab=projects">
+<img src="https://img.shields.io/badge/🚀%20PROJECTS-VIEW-8A2BE2?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/vishnuvm1122?tab=issues">
+<img src="https://img.shields.io/badge/🐛%20ISSUES-VIEW-E5534B?style=for-the-badge"/>
 </a>
 
 </p>
+
+### 📚 Contributions
+
+<p align="center">
+
+<a href="https://github.com/vishnuvm1122?tab=overview">
+
+<img src="https://img.shields.io/badge/🔥%20CONTRIBUTIONS-VIEW%20GITHUB%20PROFILE-FF6B35?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/vishnuvm1122?tab=achievements">
+
+<img src="https://img.shields.io/badge/🏆%20ACHIEVEMENTS-VIEW-FFD700?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+> 💡 **This section intentionally uses GitHub-linked badges instead of third-party statistics images, so your profile does not depend on an external statistics server being online.**
 
 ---
 
@@ -363,7 +430,7 @@ Django-based URL shortening and visitor analytics platform.
 
 <a href="https://github.com/vishnuvm1122?tab=achievements">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vishnuvm1122&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="100%" alt="GitHub Achievements" />
+<img src="https://img.shields.io/badge/🏆%20GITHUB%20ACHIEVEMENTS-CLICK%20TO%20VIEW-FFD700?style=for-the-badge"/>
 
 </a>
 
@@ -372,7 +439,57 @@ Django-based URL shortening and visitor analytics platform.
 <p align="center">
 
 <a href="https://github.com/vishnuvm1122?tab=achievements">
-<img src="https://img.shields.io/badge/🏆%20VIEW-GITHUB%20ACHIEVEMENTS-00ff9c?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/⭐%20EXPLORE-MY%20ACHIEVEMENTS-00ff9c?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<a href="https://github.com/vishnuvm1122">
+
+<img src="https://github.com/vishnuvm1122.svg" width="100%" alt="Vishnu VM GitHub Contributions"/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/vishnuvm1122?tab=overview">
+
+<img src="https://img.shields.io/badge/📊%20VIEW-FULL%20CONTRIBUTION%20ACTIVITY-00ff9c?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<a href="https://github.com/vishnuvm1122">
+
+<img src="https://streak-stats.demolab.com/?user=vishnuvm1122&theme=tokyonight&hide_border=true&border_radius=12" width="85%" alt="GitHub Streak"/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/vishnuvm1122">
+
+<img src="https://img.shields.io/badge/🔥%20VIEW-GITHUB%20ACTIVITY-FF6B35?style=for-the-badge"/>
+
 </a>
 
 </p>
@@ -382,12 +499,15 @@ Django-based URL shortening and visitor analytics platform.
 # ⚡ GitHub Profile Metrics
 
 <table align="center">
+
 <tr>
 
 <td align="center">
 
 <a href="https://github.com/vishnuvm1122">
-<img src="https://img.shields.io/github/followers/vishnuvm1122?label=FOLLOWERS&style=for-the-badge&color=00ff9c" />
+
+<img src="https://img.shields.io/badge/🐙%20PROFILE-VIEW-181717?style=for-the-badge"/>
+
 </a>
 
 </td>
@@ -395,15 +515,19 @@ Django-based URL shortening and visitor analytics platform.
 <td align="center">
 
 <a href="https://github.com/vishnuvm1122?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-VIEW-00ff9c?style=for-the-badge&logo=github" />
+
+<img src="https://img.shields.io/badge/📦%20REPOSITORIES-VIEW-0969DA?style=for-the-badge"/>
+
 </a>
 
 </td>
 
 <td align="center">
 
-<a href="https://github.com/vishnuvm1122?tab=stars">
-<img src="https://img.shields.io/badge/⭐%20STARRED-VIEW-00ff9c?style=for-the-badge&logo=github" />
+<a href="https://github.com/vishnuvm1122?tab=followers">
+
+<img src="https://img.shields.io/badge/👥%20FOLLOWERS-VIEW-238636?style=for-the-badge"/>
+
 </a>
 
 </td>
@@ -414,8 +538,20 @@ Django-based URL shortening and visitor analytics platform.
 
 <td align="center">
 
+<a href="https://github.com/vishnuvm1122?tab=stars">
+
+<img src="https://img.shields.io/badge/⭐%20STARS-VIEW-FFD700?style=for-the-badge"/>
+
+</a>
+
+</td>
+
+<td align="center">
+
 <a href="https://github.com/vishnuvm1122?tab=projects">
-<img src="https://img.shields.io/badge/PROJECTS-VIEW-00ff9c?style=for-the-badge&logo=github" />
+
+<img src="https://img.shields.io/badge/🚀%20PROJECTS-VIEW-8A2BE2?style=for-the-badge"/>
+
 </a>
 
 </td>
@@ -423,175 +559,54 @@ Django-based URL shortening and visitor analytics platform.
 <td align="center">
 
 <a href="https://github.com/vishnuvm1122?tab=issues">
-<img src="https://img.shields.io/badge/ISSUES-VIEW-00ff9c?style=for-the-badge&logo=github" />
-</a>
 
-</td>
+<img src="https://img.shields.io/badge/🐛%20ISSUES-VIEW-E5534B?style=for-the-badge"/>
 
-<td align="center">
-
-<a href="https://github.com/vishnuvm1122?tab=pullrequests">
-<img src="https://img.shields.io/badge/PULL%20REQUESTS-VIEW-00ff9c?style=for-the-badge&logo=github" />
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# 🧪 Security Mindset
-
-```text
-              💡 PLAN
-                 │
-                 ▼
-              💻 BUILD
-                 │
-                 ▼
-              🔐 SECURE
-                 │
-                 ▼
-              🧪 TEST
-                 │
-                 ▼
-              🔍 ANALYZE
-                 │
-                 ▼
-              🚨 DETECT
-                 │
-                 ▼
-              📊 MONITOR
-                 │
-                 ▼
-              ⚙️ AUTOMATE
-                 │
-                 ▼
-              📈 IMPROVE
-```
-
-> 🛡️ **Build Secure. Test Thoroughly. Monitor Continuously. Improve Constantly.**
-
----
-
-# 💼 Professional Interests
-
-<p align="center">
-
-🛡️ <b>Cybersecurity</b>
-  •  
-🔍 <b>Security Analysis</b>
-  •  
-🌐 <b>Application Security</b>
-  •  
-🐍 <b>Python</b>
-  •  
-🌐 <b>Django</b>
-  •  
-🤖 <b>AI Security</b>
-  •  
-⚙️ <b>Security Automation</b>
-
-</p>
-
----
-
-# 📫 Contact Me
-
-<p align="center">
-
-### 🤝 Open to Professional Opportunities, Projects & Collaboration
-
-</p>
+# 🧰 Developer Arsenal
 
 <table align="center">
 
 <tr>
 
-<td align="center">
-
-<a href="mailto:vishnuedappal1122@gmail.com">
-<img src="https://img.shields.io/badge/📧%20EMAIL-vishnuedappal1122%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="tel:+918129013326">
-<img src="https://img.shields.io/badge/📱%20PHONE-%2B91%2081290%2013326-00ff9c?style=for-the-badge" />
-</a>
-
-</td>
+<td align="center">🐍<br><b>Python</b></td>
+<td align="center">🌐<br><b>Django</b></td>
+<td align="center">🟨<br><b>JavaScript</b></td>
+<td align="center">🐬<br><b>MySQL</b></td>
+<td align="center">🐘<br><b>PostgreSQL</b></td>
 
 </tr>
 
 <tr>
 
-<td align="center">
-
-<a href="https://t.me/jerry_1999">
-<img src="https://img.shields.io/badge/💬%20TELEGRAM-@jerry__1999-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://www.instagram.com/vishnu_murali_____/">
-<img src="https://img.shields.io/badge/📸%20INSTAGRAM-vishnu__murali_____-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</td>
+<td align="center">🐧<br><b>Linux</b></td>
+<td align="center">🐳<br><b>Docker</b></td>
+<td align="center">🔀<br><b>Git</b></td>
+<td align="center">🐙<br><b>GitHub</b></td>
+<td align="center">🌐<br><b>Nginx</b></td>
 
 </tr>
 
 <tr>
 
-<td align="center">
-
-<a href="https://www.linkedin.com/in/vishnuvm1997/">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-vishnuvm1997-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/vishnuvm1122">
-<img src="https://img.shields.io/badge/🐙%20GITHUB-vishnuvm1122-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
+<td align="center">🔐<br><b>Security</b></td>
+<td align="center">🔍<br><b>Analysis</b></td>
+<td align="center">🚨<br><b>Detection</b></td>
+<td align="center">🤖<br><b>AI</b></td>
+<td align="center">⚙️<br><b>Automation</b></td>
 
 </tr>
 
 </table>
-
----
-
-# 🌴 Kerala Developer
-
-<p align="center">
-
-🇮🇳 <b>Made in India</b>
-  •  
-🌴 <b>Kerala Developer</b>
-  •  
-🐍 <b>Python Developer</b>
-  •  
-🛡️ <b>Cybersecurity Enthusiast</b>
-  •  
-💻 <b>Tech Guy</b>
-
-</p>
-
-<p align="center">
-
-### 🔥 Proud Mallu Guy Building Secure Technology
-
-</p>
 
 ---
 
@@ -604,58 +619,105 @@ Django-based URL shortening and visitor analytics platform.
 Vishnu VM
 
 ┌──(vishnu㉿cybersec)-[~/projects]
-└─$ role
+└─$ profession
 
 Cybersecurity Analyst
 Software Programmer
 Python & Django Developer
 
 ┌──(vishnu㉿cybersec)-[~/projects]
-└─$ mission
+└─$ focus
 
-Build → Secure → Test → Analyze → Detect → Improve
-
-┌──(vishnu㉿cybersec)-[~/projects]
-└─$ interests
-
-Cybersecurity
-Web Application Security
-Python
-Django
-AI Security
-Threat Detection
-Security Automation
+[+] Application Security
+[+] Threat Detection
+[+] Security Monitoring
+[+] Python Development
+[+] Django Development
+[+] AI Security
+[+] Security Automation
 
 ┌──(vishnu㉿cybersec)-[~/projects]
 └─$ status
 
-[+] Building secure applications...
-[+] Learning cybersecurity...
-[+] Exploring AI security...
-[+] Analyzing vulnerabilities...
-[+] Automating security workflows...
 [✓] SYSTEM READY
+[✓] SECURITY ACTIVE
+[✓] CODE RUNNING
+[✓] LEARNING CONTINUOUSLY
 ```
 
 ---
 
-# 🌟 My Mission
+# 🌴 Kerala Tech Guy
 
 <p align="center">
 
-## 🛡️ SECURE SYSTEMS
+🇮🇳 <b>INDIA</b>
+  •  
+🌴 <b>KERALA</b>
+  •  
+🔥 <b>MALLU GUY</b>
+  •  
+💻 <b>TECH ENTHUSIAST</b>
+  •  
+🛡️ <b>CYBERSECURITY</b>
 
-## 🔍 FIND VULNERABILITIES
+</p>
 
-## 🚨 DETECT THREATS
+---
 
-## 💻 WRITE BETTER CODE
+# 📫 Contact
 
-## 🤖 BUILD INTELLIGENT SECURITY
+<p align="center">
 
-## ⚙️ AUTOMATE SECURITY
+### 🤝 Let's Build Something Secure
 
-## 🚀 CREATE REAL-WORLD SOLUTIONS
+<br>
+
+<a href="mailto:vishnuedappal1122@gmail.com">
+<img src="https://img.shields.io/badge/📧%20EMAIL-SEND%20MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="tel:+918129013326">
+<img src="https://img.shields.io/badge/📱%20CALL-%2B91%2081290%2013326-00A86B?style=for-the-badge"/>
+</a>
+
+<a href="https://t.me/jerry_1999">
+<img src="https://img.shields.io/badge/💬%20TELEGRAM-MESSAGE-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vishnuvm1997/">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/vishnu_murali_____/">
+<img src="https://img.shields.io/badge/📸%20INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vishnuvm1122">
+<img src="https://img.shields.io/badge/🐙%20GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Mission
+
+<p align="center">
+
+### 🛡️ SECURE SYSTEMS
+
+### 🔍 FIND VULNERABILITIES
+
+### 🚨 DETECT THREATS
+
+### 💻 WRITE BETTER CODE
+
+### 🤖 BUILD INTELLIGENT SECURITY
+
+### ⚙️ AUTOMATE SECURITY
+
+### 🚀 CREATE REAL-WORLD SOLUTIONS
 
 </p>
 
@@ -664,23 +726,27 @@ Security Automation
 <p align="center">
 
 <a href="https://github.com/vishnuvm1122">
-<img src="https://img.shields.io/badge/🐍%20CODE-00ff9c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🐍%20CODE-00ff9c?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/vishnuvm1122">
-<img src="https://img.shields.io/badge/🛡️%20SECURE-00ff9c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🛡️%20SECURE-00a884?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/vishnuvm1122">
-<img src="https://img.shields.io/badge/🔍%20ANALYZE-00ff9c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔍%20ANALYZE-0088cc?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/vishnuvm1122">
-<img src="https://img.shields.io/badge/🧪%20TEST-00ff9c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧪%20TEST-8A2BE2?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/vishnuvm1122">
-<img src="https://img.shields.io/badge/🚀%20BUILD-00ff9c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚨%20DETECT-E5534B?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/vishnuvm1122">
+<img src="https://img.shields.io/badge/🚀%20BUILD-FF6B35?style=for-the-badge"/>
 </a>
 
 </p>
@@ -694,5 +760,7 @@ Security Automation
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:003b32,100:0d1117&height=140&section=footer" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:003b32,100:0d1117&height=140&section=footer" width="100%"/>
+
 </p>
