@@ -1,368 +1,72 @@
+<div align="center">
+
+# 🌴 🇮🇳 KERALA TECH GUY 🇮🇳 🌴
+
+### 🔥 Tech Enthusiast  |  🛡️ Cybersecurity  |  🐍 Python  |  💻 Programmer
+
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,25:001f3f,50:003b32,75:00a884,100:00ff9c&text=VISHNU%20VM&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=🛡️%20CYBERSECURITY%20%7C%20🐍%20PYTHON%20%7C%20🌐%20DJANGO%20%7C%20🤖%20AI%20SECURITY&descSize=17&descColor=ffffff&descAlignY=62&animation=fadeIn" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,15,30&height=120&section=header&text=Secure%20•%20Analyze%20•%20Test%20•%20Detect%20•%20Automate%20•%20Build&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
+</div>
+
+---
+
+### 🚀 About Me
+
+> **🛡️ Secure** • **🔍 Analyze** • **🧪 Test** • **🚨 Detect** • **🤖 Automate** • **🚀 Build**
+
+Passionate and driven technologist specializing in defensive and offensive security, automation, and robust programming. Always exploring new horizons in AI security and threat detection.
+
+---
+
+### 🛠️ Expertise & Technical Skills
+
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=1000&lines=🛡️+Cybersecurity+Analyst;💻+Security-Focused+Software+Programmer;🐍+Python+%26+Django+Developer;🌐+Web+Application+Security;🔍+Security+Analysis;🚨+Threat+Detection;🤖+AI+%2B+Cybersecurity;⚙️+Security+Automation;🚀+Building+Secure+Software" alt="Vishnu VM - Cybersecurity Analyst"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/🛡️_CYBERSECURITY-00FF9C?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🐍_PYTHON-3776AB?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🌐_DJANGO-092E20?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🤖_AI_SECURITY-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/⚙️_AUTOMATION-FF6B35?style=for-the-badge&labelColor=0D1117"/>
-
+  <img src="https://img.shields.io/badge/Application_Security-00599C?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Security-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security_Analysis-FF6F00?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threat_Detection-D32F2F?style=for-the-badge&logo=firewall&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulnerability_Assessment-7B1FA2?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security_Monitoring-0288D1?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Log_Analysis-455A64?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Network_Security-3776AB?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security_Testing-C2185B?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Security-673AB7?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security_Automation-00ACC1?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
+### 📊 GitHub Stats & Metrics
+
 <p align="center">
-
-### 🛡️ SECURITY • 💻 CODE • 🔍 ANALYZE • 🚨 DETECT • 🤖 AI • 🚀 BUILD
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<a href="https://github.com/vishnuvm1122">
-<img src="https://img.shields.io/badge/🐙_GITHUB-Vishnu_VM-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vishnuvm1997/">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-Vishnu_VM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:vishnuedappal1122@gmail.com">
-<img src="https://img.shields.io/badge/📧_EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://t.me/jerry_1999">
-<img src="https://img.shields.io/badge/💬_TELEGRAM-@jerry__1999-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://www.instagram.com/vishnu_murali_____/">
-<img src="https://img.shields.io/badge/📸_INSTAGRAM-vishnu__murali_____-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="tel:+918129013326">
-<img src="https://img.shields.io/badge/📱_PHONE-+91_81290_13326-00A86B?style=for-the-badge"/>
-</a>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-# 🧑‍💻 About Me
+### 🌐 Connect With Me
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,linux,docker,git,github&perline=6"/>
-
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="tel:YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-
-🔐 <b>Cybersecurity Analyst</b>
-  •  
-💻 <b>Software Programmer</b>
-  •  
-🐍 <b>Python & Django Developer</b>
-
-</p>
-
----
-
-# 🛡️ Cybersecurity Focus
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-
-🔐<br> <b>Application Security</b>
-
-</td>
-
-<td align="center">
-
-🌐<br> <b>Web Security</b>
-
-</td>
-
-<td align="center">
-
-🔍<br> <b>Security Analysis</b>
-
-</td>
-
-<td align="center">
-
-🚨<br> <b>Threat Detection</b>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-🛡️<br> <b>Vulnerability Assessment</b>
-
-</td>
-
-<td align="center">
-
-📊<br> <b>Security Monitoring</b>
-
-</td>
-
-<td align="center">
-
-📝<br> <b>Log Analysis</b>
-
-</td>
-
-<td align="center">
-
-🐧<br> <b>Linux Security</b>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-🌐<br> <b>Network Security</b>
-
-</td>
-
-<td align="center">
-
-🧪<br> <b>Security Testing</b>
-
-</td>
-
-<td align="center">
-
-🤖<br> <b>AI Security</b>
-
-</td>
-
-<td align="center">
-
-⚙️<br> <b>Automation</b>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💻 Technology Arsenal
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,postgres,sqlite,linux,git,github,docker,nginx,apache&perline=8"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-Expertise-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-Web%20Development-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-Security-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-Development-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-</p>
-
----
-
-# 🤖 AI × Cybersecurity
-
-<p align="center">
-
-```text
-              🤖 ARTIFICIAL INTELLIGENCE
-                         │
-            ┌────────────┼────────────┐
-            ▼            ▼            ▼
-       🔗 URL        📧 EMAIL      🌐 WEB
-       ANALYSIS      ANALYSIS      ANALYSIS
-            │            │            │
-            └────────────┼────────────┘
-                         ▼
-                  🔍 THREAT ANALYSIS
-                         │
-                         ▼
-                  🚨 THREAT DETECTION
-                         │
-                         ▼
-                  🛡️ SECURITY RESPONSE
-                         │
-                         ▼
-                  📊 SECURITY ANALYTICS
-```
-
-</p>
-
----
-
-# 🧪 Security Mindset
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/01_💡_PLAN-0D1117?style=for-the-badge&logoColor=white"/>
-➜
-<img src="https://img.shields.io/badge/02_💻_BUILD-003B32?style=for-the-badge"/>
-➜
-<img src="https://img.shields.io/badge/03_🔐_SECURE-006B5B?style=for-the-badge"/>
-➜
-<img src="https://img.shields.io/badge/04_🧪_TEST-0088CC?style=for-the-badge"/>
-➜
-<img src="https://img.shields.io/badge/05_🔍_ANALYZE-8A2BE2?style=for-the-badge"/>
-➜
-<img src="https://img.shields.io/badge/06_🚨_MONITOR-E5534B?style=for-the-badge"/>
-➜
-<img src="https://img.shields.io/badge/07_📈_IMPROVE-00FF9C?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📊 GitHub
-
-<p align="center">
-
-<a href="https://github.com/vishnuvm1122">
-
-<img src="https://img.shields.io/badge/🐙_PROFILE-VIEW-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="https://github.com/vishnuvm1122?tab=repositories">
-
-<img src="https://img.shields.io/badge/📦_REPOSITORIES-VIEW-0969DA?style=for-the-badge"/>
-
-</a>
-
-<a href="https://github.com/vishnuvm1122?tab=achievements">
-
-<img src="https://img.shields.io/badge/🏆_ACHIEVEMENTS-VIEW-FFD700?style=for-the-badge"/>
-
-</a>
-
-<a href="https://github.com/vishnuvm1122?tab=overview">
-
-<img src="https://img.shields.io/badge/📈_ACTIVITY-VIEW-00A884?style=for-the-badge"/>
-
-</a>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/vishnuvm1122/Employee-Learning-Management-System">
-
-<img src="https://img.shields.io/badge/📚_EMPLOYEE_LMS-VIEW_PROJECT-0A66C2?style=for-the-badge"/>
-
-</a>
-
-<a href="https://github.com/vishnuvm1122/url-shortner">
-
-<img src="https://img.shields.io/badge/🔗_URL_SHORTENER-VIEW_PROJECT-8A2BE2?style=for-the-badge"/>
-
-</a>
-
-</p>
-
----
-
-# 📫 Contact
-
-<p align="center">
-
-<a href="mailto:vishnuedappal1122@gmail.com">
-<img src="https://img.shields.io/badge/📧_EMAIL-vishnuedappal1122%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="tel:+918129013326">
-<img src="https://img.shields.io/badge/📱_CALL-+91_81290_13326-00A86B?style=for-the-badge"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://t.me/jerry_1999">
-<img src="https://img.shields.io/badge/💬_TELEGRAM-@jerry__1999-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/vishnu_murali_____/">
-<img src="https://img.shields.io/badge/📸_INSTAGRAM-vishnu__murali_____-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vishnuvm1997/">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-Vishnu_VM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-🌴 🇮🇳 <b>KERALA TECH GUY</b> 🇮🇳 🌴
-
-<br>
-
-🔥 <b>TECH ENTHUSIAST</b>
-  •  
-🛡️ <b>CYBERSECURITY</b>
-  •  
-🐍 <b>PYTHON</b>
-  •  
-💻 <b>PROGRAMMER</b>
-
-</p>
-
----
-
-<p align="center">
-
-### 🛡️ SECURE SYSTEMS
-
-### 🔍 FIND VULNERABILITIES
-
-### 🚨 DETECT THREATS
-
-### 🤖 BUILD INTELLIGENT SECURITY
-
-### 🚀 CREATE REAL-WORLD SOLUTIONS
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,35:00a884,70:003b32,100:0d1117&height=140&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,10,2,0&height=60&section=footer" width="100%" />
 </p>
