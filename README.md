@@ -1,133 +1,183 @@
-# 👋 Hi, I'm Vishnu 
+# 🛡️ Hi, I'm Vishnu
 
-### 🐍 💻  Programmer | 🛡️ Cybersecurity Analyst
+## 🛡️ Cybersecurity Analyst | 💻 Software Programmer | 🐍 Python & Django Developer
 
-I’m a **Software Programmer, Python & Django , and Cybersecurity Analyst** passionate about building secure, reliable, and practical technology solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Cybersecurity+Analyst;Security-Focused+Software+Programmer;Python+%26+Django+Developer;Web+Application+Security+Enthusiast;Building+Secure+Web+Applications" alt="Typing SVG" />
+</p>
 
-My work combines **software development and cybersecurity**, with a focus on developing web applications, analyzing security risks, implementing security controls, and creating solutions for real-world business requirements.
-
----
-
-## 🚀 About Me
-
-💻 **Software Programmer** focused on developing practical and scalable applications.
-
-🐍 **Python & Django Developer** experienced in backend and full-stack web application development.
-
-🛡️ **Cybersecurity Analyst** interested in application security, security monitoring, threat detection, and vulnerability analysis.
-
-🌐 **Full-Stack Developer** working with Python, Django, JavaScript, HTML, CSS, Bootstrap, and databases.
-
-🔐 Interested in **secure software development and web application security**.
-
-📊 Experienced in building **management systems, analytics platforms, dashboards, tracking systems, and automated workflows**.
-
-🤖 Exploring **AI-based cybersecurity and intelligent security analysis**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Focused-00FF9C?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-Developer-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-# 🧠 Core Areas
+## 👨‍💻 About Me
 
-### 💻 Software Development
+🔐 **Cybersecurity is my primary focus.**
 
-* Python Programming
-* Django Development
-* Full-Stack Web Development
-* REST API Development
-* Database Applications
-* Business Management Systems
-* Application Architecture
-* Automation & Workflow Development
+I am a **Cybersecurity Analyst and Software Programmer** interested in identifying security risks, analyzing suspicious activity, developing security-focused applications, and understanding how web applications and systems can be protected against real-world threats.
 
-### 🛡️ Cybersecurity
+💻 Alongside cybersecurity, I use my **Python and Django programming skills** to build practical web applications and cybersecurity-related projects.
 
-* Web Application Security
-* Security Monitoring
-* Authentication & Authorization
-* Login Activity Monitoring
-* Suspicious Login Detection
-* Device & Session Tracking
-* Vulnerability Analysis
-* Security Testing
-* Threat Detection
-* Security Logging
-* Secure Application Development
+🚀 My goal is to combine **security analysis + programming + automation** to create secure and intelligent software solutions.
 
-### 🤖 AI & Security
-
-* AI-Based Security Applications
-* Phishing Detection
-* Security Analytics
-* Automated Threat Analysis
-* Intelligent Monitoring Systems
-* Machine Learning Exploration
+```text
+🛡️ Cybersecurity
+      +
+💻 Programming
+      +
+🐍 Python
+      +
+🌐 Web Application Security
+      +
+🤖 Automation & AI
+      =
+🚀 Secure Software Solutions
+```
 
 ---
 
-# 🛠️ Technology Stack
+# 🛡️ Cybersecurity Focus
 
-### 👨‍💻 Programming
+My primary areas of interest include:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### 🌐 Web Development
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-### 🔐 Security & Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+🔍 Security Analysis
+🌐 Web Application Security
+🚨 Threat Detection
+🛡️ Vulnerability Assessment
+🔐 Authentication & Authorization
+📊 Security Monitoring
+💻 System & Application Security
+🔎 Log Analysis
+🚨 Suspicious Activity Detection
+🧪 Security Testing
+🌐 Network Security
+🤖 AI for Cybersecurity
+⚙️ Security Automation
 
 ---
 
-# ⭐ Featured Projects
+# 💻 Programming & Development
 
-## 📚 Employee Learning Management System
+Programming is an important part of my cybersecurity approach.
 
-A business-focused **Employee Learning Management System** developed using Python and Django.
+I use software development to build tools, automate tasks, analyze security information, and create security-focused web applications.
 
-### Features
+### 🐍 Languages & Development
 
-* 👨‍💼 Employee Management
-* 📚 Course Management
-* 🎯 Course Allocation
-* 📈 Learning Progress Tracking
-* 🔔 Notifications
-* 📧 Email Communication
-* 🔐 Authentication & Access Control
+![Python](https://img.shields.io/badge/Python-Expertise-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Development-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Web-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Web-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### 🌐 Frameworks
+
+![Django](https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Frontend-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+---
+
+# 🔐 Security Technologies & Tools
+
+### 🐧 Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-Security-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### 🛠️ Security & Network Tools
+
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-4682B4?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Security-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+> 🧪 Security testing is performed only on systems and environments where I have authorization.
+
+---
+
+# 🧠 Cybersecurity Skills
+
+```text
+🔐 Authentication & Access Control
+🛡️ Web Application Security
+🔍 Vulnerability Analysis
+🚨 Threat Detection
+📊 Security Monitoring
+📝 Security Logging
+🌐 Network Analysis
+💻 Linux Security
+🔎 Incident Analysis
+🧪 Security Testing
+🔑 Password & Session Security
+📧 Security Notifications
+🤖 Security Automation
+```
+
+---
+
+# 🚀 Cybersecurity Projects
+
+## 🛡️ Security Monitoring & Login Detection
+
+A security-focused web application designed to monitor authentication activity and identify potentially suspicious login behavior.
+
+### 🔥 Features
+
+* 🔐 Login / Logout Monitoring
+* 💻 Device & Session Tracking
+* 🌐 IP Address Monitoring
 * 🚨 Suspicious Login Detection
-* 💻 Login / Logout Tracking
-* 📱 Device & Session Monitoring
-* 🔑 Password Reset
-* 📊 Administrative Dashboard
+* 📧 Security Email Notifications
+* 📊 Security Activity Logs
+* 🔎 User-Agent Analysis
+* 🛡️ Authentication Monitoring
 
 **Technology:** Python • Django • MySQL • JavaScript • Bootstrap
 
-🔗 Repository:
+---
+
+# 🎯 Featured Software Projects
+
+## 📚 Employee Learning Management System
+
+A complete business-oriented web application for managing employee learning and training activities.
+
+### 🔥 Security Features
+
+* 🔐 User Authentication
+* 🛡️ Access Control
+* 🚨 Suspicious Login Detection
+* 💻 Login / Logout Tracking
+* 📱 Device & Session Monitoring
+* 📧 Security Notifications
+* 🔑 Password Reset
+
+### 📚 Application Features
+
+* 👨‍💼 Employee Management
+* 📖 Course Management
+* 🎯 Course Allocation
+* 📊 Learning Progress
+* 🔔 Notifications
+* 📧 Email Communication
+* 🛠️ Administrative Management
+
+🔗 **Repository:**
 https://github.com/vishnuvm1122/Employee-Learning-Management-System
 
 ---
 
-## 🔗 URL Shortener & Link Analytics
+## 🔗 URL Shortener & Security Analytics
 
-A Django-based URL shortening platform with integrated **visitor analytics and tracking capabilities**.
+A Django-based URL shortening platform with visitor and click analytics.
 
-### Features
+### 🔥 Features
 
 * 🔗 Short URL Generation
-* ✨ Custom URLs
 * 📊 Click Analytics
 * 🌐 IP Tracking
 * 🖥️ Browser Detection
@@ -135,126 +185,218 @@ A Django-based URL shortening platform with integrated **visitor analytics and t
 * 📱 Device Detection
 * ⏳ Link Expiration
 * 📈 Analytics Dashboard
-* 👤 User Authentication
+* 🔐 User Authentication
 
-**Technology:** Python • Django • JavaScript • Bootstrap • Database
-
-🔗 Repository:
+🔗 **Repository:**
 https://github.com/vishnuvm1122/url-shortner
 
 ---
 
-# 🛡️ Cybersecurity Focus
+# 🤖 AI + Cybersecurity
 
-I am interested in combining **software engineering with cybersecurity** to develop applications that are secure by design.
+I am interested in combining **Artificial Intelligence with Cybersecurity** to develop intelligent security solutions.
 
-### Areas of Interest
+### 🔮 Areas I'm Exploring
+
+🤖 AI Phishing Detection
+🔍 Intelligent Threat Detection
+📊 Security Event Analysis
+🧠 Machine Learning for Security
+🚨 Automated Suspicious Activity Detection
+🌐 Malicious URL Analysis
+📧 Email Threat Detection
+⚙️ Security Automation
+
+---
+
+# 🧰 Technology Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,postgres,sqlite,linux,git,github,docker" />
+
+</p>
+
+---
+
+# 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishnuvm1122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvm1122&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=vishnuvm1122&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vishnuvm1122&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</p>
+
+---
+
+# 📊 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnuvm1122&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+# 🎯 Current Learning & Focus
 
 ```text
-🔐 Application Security
-🛡️ Web Security
-🚨 Threat Detection
-🔍 Vulnerability Analysis
-📊 Security Analytics
-💻 Security Monitoring
-🔑 Authentication Security
-🌐 Network Security
-🧪 Security Testing
-🤖 AI for Cybersecurity
+┌─────────────────────────────────────────────┐
+│          🛡️ CYBERSECURITY                  │
+├─────────────────────────────────────────────┤
+│ 🔍 Vulnerability Analysis                  │
+│ 🌐 Web Application Security                │
+│ 🚨 Threat Detection                        │
+│ 📊 Security Monitoring                     │
+│ 🐧 Linux Security                          │
+│ 🌐 Network Security                        │
+│ 🤖 AI + Cybersecurity                      │
+│ ⚙️ Security Automation                     │
+└─────────────────────────────────────────────┘
 ```
 
 ---
 
-# 💼 What I Can Develop
+# 🧪 Security Mindset
 
-### 🏢 Business Software
-
-* Employee Management Systems
-* Learning Management Systems
-* Complaint Management Systems
-* Workflow Applications
-* Administrative Dashboards
-* Reporting & Analytics Platforms
-
-### 🔐 Security Solutions
-
-* Security Monitoring Applications
-* Login Monitoring Systems
-* Suspicious Activity Detection
-* Authentication Systems
-* Security Dashboards
-* Security Logging Systems
-* Vulnerability Analysis Tools
-
-### 🌐 Web Applications
-
-* Django Applications
-* REST APIs
-* Database-Driven Applications
-* Admin Panels
-* Custom Business Platforms
-* Automation Systems
-
-### 🤖 AI & Cybersecurity
-
-* AI Phishing Detection
-* Intelligent Security Analysis
-* Automated Threat Detection
-* Security Classification Systems
-* AI-Powered Monitoring
-
----
-
-# 🧩 My Development Philosophy
-
-> **Build it. Secure it. Test it. Improve it.**
-
-I believe modern software development should combine **functionality, security, reliability, and maintainability**.
-
-My goal is not only to create applications that work, but to understand how they can be **protected, monitored, tested, and improved**.
-
----
-
-# 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnuvm1122\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvm1122\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-# 🎯 Current Focus
+I believe cybersecurity should be considered throughout the complete software lifecycle:
 
 ```text
-🐍 Advanced Python
-🌐 Django & Backend Engineering
-🔐 Web Application Security
-🛡️ Cybersecurity Analysis
-🤖 AI + Cybersecurity
-📊 Security Analytics
-☁️ Deployment & Infrastructure
-🧪 Security Testing
+💡 PLAN
+   ↓
+💻 DEVELOP
+   ↓
+🔐 SECURE
+   ↓
+🧪 TEST
+   ↓
+🔍 ANALYZE
+   ↓
+🚨 MONITOR
+   ↓
+📈 IMPROVE
 ```
 
----
+My development philosophy is:
 
-# 🌟 Career Objective
-
-I aim to grow as a **Software Programmer and Cybersecurity Professional**, combining strong programming skills with security knowledge to develop **secure, scalable, and intelligent software solutions**.
-
-I’m interested in opportunities involving:
-
-**Software Development • Python/Django • Cybersecurity • Application Security • Security Analysis • Automation • AI Security**
+> **Build Secure. Test Thoroughly. Monitor Continuously. Improve Constantly.**
 
 ---
 
-# 📫 Connect With Me
+# 🌟 Professional Strengths
 
-💻 GitHub:
-https://github.com/vishnuvm1122
-
-⭐ Feel free to explore my repositories and projects.
+| 🏆 Area           | 💡 Focus                             |
+| ----------------- | ------------------------------------ |
+| 🛡️ Cybersecurity | Security analysis & monitoring       |
+| 💻 Programming    | Python & software development        |
+| 🐍 Python         | Security tools & web applications    |
+| 🌐 Web Security   | Django application security          |
+| 🔍 Analysis       | Logs, activity & suspicious behavior |
+| 🚨 Detection      | Security events & anomalies          |
+| ⚙️ Automation     | Security workflows                   |
+| 📊 Analytics      | Security & application data          |
+| 🤖 AI             | AI-powered security solutions        |
+| 🧪 Testing        | Application & security testing       |
 
 ---
 
-### 🐍 Code • 🔐 Secure • 🧪 Test • 🚀 Build
+# 🚀 What I Want to Build
+
+I am interested in developing cybersecurity-focused applications such as:
+
+🛡️ Security Monitoring Platforms
+🔍 Vulnerability Analysis Tools
+🚨 Threat Detection Systems
+🌐 Web Security Applications
+🤖 AI Phishing Detection
+📊 Security Analytics Dashboards
+🔐 Authentication Monitoring Systems
+⚙️ Automated Security Tools
+🧠 Intelligent Cybersecurity Platforms
+
+---
+
+# 📫 Connect & Explore
+
+<p align="center">
+
+<a href="https://github.com/vishnuvm1122">
+<img src="https://img.shields.io/badge/GitHub-vishnuvm1122-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vishnuvm1122&label=PROFILE%20VIEWS&color=00FF9C&style=for-the-badge" />
+
+</p>
+
+---
+
+# ⚡ Final Mission
+
+<p align="center">
+
+### 🛡️ Secure Systems
+
+### 💻 Write Better Code
+
+### 🔍 Find Vulnerabilities
+
+### 🚨 Detect Threats
+
+### 🤖 Build Intelligent Security Solutions
+
+</p>
+
+---
+
+<p align="center">
+
+### 🐍 Code • 🛡️ Secure • 🔍 Analyze • 🧪 Test • 🚀 Build
+
+</p>
+
+<p align="center">
+<strong>Thanks for visiting my profile! ⭐</strong>
+</p>
