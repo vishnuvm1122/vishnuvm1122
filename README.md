@@ -1,6 +1,6 @@
 # 🛡️ VISHNU VM
 
-### Cybersecurity Analyst · Software Programmer · Python & Django Developer
+### Cybersecurity Analyst · Programmer · 
 
 <p align="left">
 
